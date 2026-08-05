@@ -4,6 +4,8 @@ Site simples para listar informações e conquistas relacionadas à série Dark 
 
 ## Como abrir
 - Abra o arquivo [index.html](index.html) no seu navegador (duplo clique ou via `File → Open`).
+  ou
+- Clique no link do github pages [Aqui](https://axolpontocom.github.io/Conquistas-DS/)
 
 ## Estrutura do projeto
 - `index.html` — página principal do site
