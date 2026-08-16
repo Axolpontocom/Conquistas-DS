@@ -4,7 +4,13 @@ const sortimagem = [
     "../../img/Carson-Drew-It_com_ Photo.jfif",
     "../../img/dsfeio.jfif",
     "../../img/plimplimplom.gif",
-    "../../img/elden-ring-vagabond.webp"
+    "../../img/elden-ring-vagabond.webp",
+     "../img/goatsouls.jfif",
+    "../img/undead.gif",
+    "../img/Carson-Drew-It_com_ Photo.jfif",
+    "../img/dsfeio.jfif",
+    "../img/plimplimplom.gif",
+    "../img/elden-ring-vagabond.webp"
 
 ];
 
